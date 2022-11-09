@@ -1,3 +1,4 @@
 secret.yaml
 kubeseal.yaml
 .DS_Store
+*.pem
